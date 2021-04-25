@@ -10,7 +10,7 @@
   - Tìm sách 
   - Mượn, trả sách
   - Liệt kê sách đọc giả mượn
-  (Mức độ hoàn thiện của đồ án chưa cao, chỉ mang tính chất tham khảo)
+  - (Note: Mức độ hoàn thiện của đồ án chưa cao, chỉ mang tính chất tham khảo)
 # Cách chạy chương trình
 - Cài đặt, sử dụng trình biên dịch để run code( Dev-c, Vusual studio,...)
 - Cài thư viện mylib. Đính kèm trong project
