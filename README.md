@@ -1,4 +1,4 @@
-# libralian-project
+# library-Manager
 Đồ án CTDL&GT Quản lý thư viện bằng c++
 
 # Thực hiện:
