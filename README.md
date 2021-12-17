@@ -15,5 +15,6 @@
 - Cài đặt, sử dụng trình biên dịch để run code( Dev-c, Vusual studio,...)
 - Cài thư viện mylib. Đính kèm trong project
 - Mở và chạy file run.cpp (đây là file menu chính của project) 
+
 ![image](https://user-images.githubusercontent.com/69187962/146569180-502bb640-fbe6-487b-81b7-e5fb22d62ca6.png)
 
